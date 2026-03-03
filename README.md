@@ -1,5 +1,5 @@
 # Ai-coding-Tools-in-2026
-Here’s a comprehensive list of the best AI coding tools — assistants and agents — that developers are using in 2026 for writing, reviewing, generating, testing, and even autonomously building software:
+Here’s a comprehensive list of the best AI coding tools — assistants and agents — that developers are using in 2026 for writing, reviewing, generating, testing, and even autonomously building software
 
 🚀 Top AI Coding Assistants & Agents in 2026
 💻 1. GitHub Copilot
